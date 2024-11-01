@@ -51,8 +51,8 @@
 
 
 <p align = "center">
-<img src="/Images/1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> <img src="/Images/2.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-<img src="/Images/3.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> <img src="/Images/4.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/Images/1.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> <img src="/Images/2.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
+<img src="/Images/3.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/> <img src="/Images/4.png" alt="MarineGEO circle logo" style="height: 300px; width:300px;"/>
 </p>
 
 <p>
